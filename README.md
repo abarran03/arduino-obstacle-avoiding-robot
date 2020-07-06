@@ -1,5 +1,5 @@
 # arduino-obstacle-avoiding-robot
 An arduino 's project of an obstacle avoiding robot
 
-![Capture](https://user-images.githubusercontent.com/58741178/86548391-735f9700-bef9-11ea-8962-b311b193322e.PNG)
+![15844044_953799708098461_2773175792539218248_o](https://user-images.githubusercontent.com/58741178/86548469-bc175000-bef9-11ea-9e04-985e60e111f3.jpg)
 
