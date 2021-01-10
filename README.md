@@ -4,6 +4,7 @@ An arduino 's project of an obstacle avoiding robot. The robot is capable of avo
 
 ## Initial configuration
 **Arduino documentation**:  https://www.arduino.cc/
+
 **Arduino IDE**:  https://www.arduino.cc/en/main/OldSoftwareReleases
 
 ## How to use
